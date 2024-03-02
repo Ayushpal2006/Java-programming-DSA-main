@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary_Search/Binary_Search.iml" filepath="$PROJECT_DIR$/Binary_Search/Binary_Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Function/Function.iml" filepath="$PROJECT_DIR$/Function/Function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-programming-DSA.iml" filepath="$PROJECT_DIR$/Java-programming-DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_01_Basic/_01_Basic.iml" filepath="$PROJECT_DIR$/_01_Basic/_01_Basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/leetcode/leetcode.iml" filepath="$PROJECT_DIR$/Array/leetcode/leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pattern/pattern.iml" filepath="$PROJECT_DIR$/pattern/pattern.iml" />
+    </modules>
+  </component>
+</project>
