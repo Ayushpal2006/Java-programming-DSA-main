@@ -8,11 +8,11 @@ public class infinite_array {
     int end=1;
 
     while(target>arr[end]){
-        int newstart=end+1;
+        int newstart=end;
         //double the box size
         //end=end*2+1
 
-        end=end+(end-start)*2;
+        end=end*2;
         start=newstart;
 
     }

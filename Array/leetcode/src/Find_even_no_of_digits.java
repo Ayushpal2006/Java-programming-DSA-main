@@ -9,8 +9,8 @@ public class Find_even_no_of_digits {
     static int Find(int nums[]){
         int count=0;
 
-        for(int num=0;num<nums.length;num++){
-            if (even(nums[num]))
+        for(int i=0;i<nums.length;i++){
+            if (even(nums[i]))
                 count++;
         }
     return count;
@@ -22,11 +22,8 @@ public class Find_even_no_of_digits {
     return false;
     }
     static int digit(int nums){
-        for (int i = 0; i < nums; i++) {
             int n= (int) (Math.log10(nums)+1);
             return n;
-        }
-    return 0;
     }
 
     static int digit2(int nums){

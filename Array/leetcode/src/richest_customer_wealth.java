@@ -1,6 +1,6 @@
 public class richest_customer_wealth {
     public static void main(String[] args) {
-        int acc[][] = {{1, 2, 30}, {9, 1, 6}, {3, 3, 7}};
+        int[][] acc = {{1, 2, 30}, {9, 1, 6}, {3, 3, 7}};
         System.out.println(Richest(acc));
 
     }
