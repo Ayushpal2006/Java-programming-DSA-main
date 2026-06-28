@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Ayushpal2006/Java-programming-DSA-main/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayushpal2006/Java-programming-DSA-main/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/Ayushpal2006/Java-programming-DSA-main/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,8 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayushpal2006/Java-programming-DSA-main/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/Ayushpal2006/Java-programming-DSA-main/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayushpal2006/Java-programming-DSA-main/tree/master/0209-minimum-size-subarray-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/Ayushpal2006/Java-programming-DSA-main/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
