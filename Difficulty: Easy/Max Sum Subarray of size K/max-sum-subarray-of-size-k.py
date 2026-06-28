@@ -1,0 +1,24 @@
+class Solution:
+    def maxSubarraySum(self, arr, k):
+        n = len(arr)
+
+        window_sum = 0
+        for i in range(k):
+            window_sum += arr[i]
+
+        maxi = window_sum
+
+        low = 0
+        high = k - 1
+
+        while high < n - 1:
+            high += 1
+            window_sum += arr[high]
+            window_sum -= arr[low]
+            low += 1
+
+            maxi = max(maxi, window_sum)
+
+        return maxi
+            
+            
