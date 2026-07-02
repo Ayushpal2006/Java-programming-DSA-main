@@ -1,6 +1,16 @@
-from collections import Counter
 class Solution:
     def findDuplicate(self, nums: List[int]) -> int:
-        count  = Counter(nums)
-        most_frequent = count.most_common(1)[0][0]
-        return most_frequent
+        slow =0
+        fast = 0
+        while(True):
+            slow  = nums[slow]
+            fast = nums[fast]
+            fast = nums[fast]
+
+            if slow == fast:
+                slow  = 0
+                while(slow!=fast):
+                    slow = nums[slow]
+                    fast = nums[fast]
+                return slow 
+        return -1 
