@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayushpal2006/Java-programming-DSA-main/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Ayushpal2006/Java-programming-DSA-main/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ayushpal2006/Java-programming-DSA-main/tree/master/0287-find-the-duplicate-number) |
+| [0844-backspace-string-compare](https://github.com/Ayushpal2006/Java-programming-DSA-main/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Ayushpal2006/Java-programming-DSA-main/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayushpal2006/Java-programming-DSA-main/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayushpal2006/Java-programming-DSA-main/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Ayushpal2006/Java-programming-DSA-main/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayushpal2006/Java-programming-DSA-main/tree/master/0424-longest-repeating-character-replacement) |
+| [0844-backspace-string-compare](https://github.com/Ayushpal2006/Java-programming-DSA-main/tree/master/0844-backspace-string-compare) |
 ## Linked List
 |  |
 | ------- |
@@ -119,4 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ayushpal2006/Java-programming-DSA-main/tree/master/0918-maximum-sum-circular-subarray) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Ayushpal2006/Java-programming-DSA-main/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Ayushpal2006/Java-programming-DSA-main/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
