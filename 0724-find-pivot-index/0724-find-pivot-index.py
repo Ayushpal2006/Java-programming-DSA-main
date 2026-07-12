@@ -7,7 +7,6 @@ class Solution:
             right = summ-left-nums[i]
             if right==left:
                 return i
-            
             left = left + nums[i]
 
         return -1
