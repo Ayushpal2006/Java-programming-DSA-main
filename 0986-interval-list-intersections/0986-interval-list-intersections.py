@@ -5,28 +5,12 @@ class Solution:
 
         while i < len(firstList) and j < len(secondList):
 
-            start1 = firstList[i][0]
-            end1 = firstList[i][1]
-            start2 = secondList[j][0]
-            end2 = secondList[j][1]
+            start1, end1 = firstList[i]
+            start2, end2 = secondList[j]
 
-            # If first interval starts before second
-            if start1 <= start2:
-
-                # Check if intervals overlap
-                if end1 >= start2:
-                    s = max(start1, start2)
-                    e = min(end1, end2)
-                    res.append([s, e])
-
-            # If second interval starts before first
-            else:
-
-                # Check if intervals overlap
-                if end2 >= start1:
-                    s = max(start1, start2)
-                    e = min(end1, end2)
-                    res.append([s, e])
+            # Check if current intervals overlap
+            if max(start1, start2) <= min(end1, end2):
+                res.append([max(start1, start2), min(end1, end2)])
 
             # Move the pointer of the interval that ends first
             if end1 <= end2:
